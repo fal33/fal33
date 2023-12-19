@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @fal33
+- 👀 dev
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me hellodevfal@gmail.com
+
